@@ -1,0 +1,18 @@
+{
+  "hostname": {
+    "app": "sampleapplication-dev.com",
+    "app-qa": "sampleapplication-qa.com",
+    "app-prod": "sampleapplication-prod.com"
+  },
+  "app": {
+    "app": "sampleapplication-dev.com",
+    "app-qa": "sampleapplication-qa.com",
+    "app-prod": "sampleapplication-prod.com"
+  },
+  "backend": {
+    "app": "localhost:3001",
+    "app-qa": "localhost:3001",
+    "app-prod": "localhost:3001",
+    "apiVersion": "v1"
+  }
+}

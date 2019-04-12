@@ -1,0 +1,7 @@
+{
+    "apiServer": {
+        "protocol": "https",
+        "hostname": "sample.api.com",
+        "pathname": "/api/v1"
+    }
+}

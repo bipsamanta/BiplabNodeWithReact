@@ -1,0 +1,8 @@
+applications:
+- name: BiplabReact
+memory: 1G
+Stack: cflinuxfs2
+buildpack: nodejs_buildpack
+command: npm start
+disk_quota: 1G
+instances: 1
